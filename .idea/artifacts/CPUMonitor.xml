@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="CPUMonitor">
+    <output-path>$PROJECT_DIR$/docker-dir</output-path>
+    <root id="root" />
+  </artifact>
+</component>
