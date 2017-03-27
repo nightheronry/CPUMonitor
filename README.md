@@ -1,5 +1,5 @@
-#CPU Monitor 
-* How much energy is cost by your CPU
+# CPU Monitor 
+How much energy is cost by your CPU
 
 CPU Monitor is the course projection on `Green Tech`. 
 We expect strong linear correlations between power consumption
