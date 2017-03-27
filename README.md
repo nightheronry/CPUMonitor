@@ -6,9 +6,7 @@ We expect strong linear correlations between power consumption
 and CPU load like following formula.
 				![N|Formula](https://github.com/nightheronry/CPUMonitor/blob/master/Formula.png)
 
-So we calculate the correlation coefficient a and b via power
- consumption knowing from `power meter` and CPU loading getting 
- by Java `OperatingSystemMXBean API`.
+So we calculate the correlation coefficient *a* and *b* via power consumption knowing from `power meter` and CPU loading getting by Java `OperatingSystemMXBean API`.
  
  ## GUI 
 ![N|GUI](https://github.com/nightheronry/CPUMonitor/blob/master/GUI.png)
