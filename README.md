@@ -11,3 +11,7 @@ So we calculate the correlation coefficient *a* and *b* via power consumption kn
  
  ## GUI 
 ![N|GUI](https://github.com/nightheronry/CPUMonitor/blob/master/GUI.png)
+
+## License
+
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
